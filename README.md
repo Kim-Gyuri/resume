@@ -53,6 +53,11 @@
 `Frontend`
 + Bootstrap template
 + Thymeleaf
+
+<br>
+
+> [프로젝트 상세 설명](https://thumper.tistory.com/category/%EA%B0%9C%EC%9D%B8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
 <br>
 <br>
 
